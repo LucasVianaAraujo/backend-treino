@@ -5,6 +5,8 @@ import { DeletarUsuario } from "../../repository/User/AddUser.js";
 import { ListarUsuarioFiltro } from "../../repository/User/AddUser.js";
 // import { ListarUsuarioFiltroCPF } from "../../repository/User/AddUser.js";
 
+// patê
+
 import { Router } from "express";
 
 const endpoints = Router();
